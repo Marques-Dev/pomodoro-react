@@ -1,8 +1,8 @@
 ## primeiramente:
-npm install <br>
-npm run server <br>
+-- npm install <br>
+-- npm run server <br>
 ## abra um novo terminal e:
-npm start
+-- npm start
 
 
 ## abra no:
