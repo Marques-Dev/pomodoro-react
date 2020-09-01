@@ -1,8 +1,9 @@
-primeiramente:
+## primeiramente:
 npm install
 npm run server
-abra um novo terminal e:
+## abra um novo terminal e:
 npm start
 
 
-abra no http://localhost:8000
+## abra no:
+http://localhost:8000
